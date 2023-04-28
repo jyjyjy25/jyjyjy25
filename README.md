@@ -1,5 +1,9 @@
 ### Hi there, I'm Jiyun Kim! 👋
-Good day! I am Jiyun Kim who is interested in DevOps & Backend from South Korea.
+<div align="center">
+ ![header](https://capsule-render.vercel.app/api?type=shark&text=Jiyun Kim)
+</div>
+
+
 <!--
 **pwdjnyz11/pwdjnyz11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,9 +19,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjyjyjy25&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)                 
+- I'm currently interested in DevOps & Backend from South Korea.
+- 
 
- 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyjyjy25)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://github-readme-stats.vercel.app/api?usernamejyjyjy25&show_icons=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyjyjy25&layout=compact">
