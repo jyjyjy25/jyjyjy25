@@ -42,7 +42,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyjyjy25&layout=compact">
   </a>
   <a href="s">
-    <img src="https://github-readme-stats.vercel.app/api?username=jyjyjy25&show_icons=true" width="45%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=jyjyjy25&show_icons=true" width="47%" />
   </a>
 </div>
 
